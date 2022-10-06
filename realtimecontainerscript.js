@@ -1,7 +1,7 @@
 ﻿function getNBAMServiceControl(serviceClass,callMultiContainer) {
 	
-	var serverHostname = "https://gowtham.xyz/";
-	var serverPort = "443";
+	var serverHostname = "https://env-3a64b215c28.pegaenablement.com/prweb";
+	var serverPort = "8080";
 	var serviceClass = serviceClass;
 	var callMultiContainer = callMultiContainer;
 	var offerLength = 0;
